@@ -43,3 +43,19 @@ border-width: 5px;
    border-color: rgb(45, 197, 3);
    border-width: 5px;
 }
+.bg-img{
+   background-image: url('./img/task10.jpg');
+   width: 500px;
+   height: 500px;
+   color: azure;
+}
+.bg-hex{
+   background-color: #900000;
+   color: #ffffff;
+}
+.bg-name{
+   background-color: red;
+}
+.bg-rgb{
+   background-color: rgb(3, 187, 197);
+}
