@@ -11,3 +11,35 @@
 .text-3{
    text-decoration: line-through;
 }
+.solid{
+   border: solid;
+}
+.dashed{
+   border: dashed;
+}
+.dotted{
+   border: dotted;
+}
+.double{
+   border: double;
+}
+.groove{
+   border: groove;
+border-color: rgb(45, 197, 3);
+border-width: 5px;
+}
+.ridge{
+border: ridge;
+border-color: rgb(45, 197, 3);
+border-width: 5px;
+}
+.inset{
+   border: inset;
+   border-color: rgb(45, 197, 3);
+   border-width: 5px;
+}
+.outset{
+   border: outset;
+   border-color: rgb(45, 197, 3);
+   border-width: 5px;
+}
