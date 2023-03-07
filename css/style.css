@@ -59,3 +59,51 @@ border-width: 5px;
 .bg-rgb{
    background-color: rgb(3, 187, 197);
 }
+
+   .form_task:checked {
+      border-color: #008000;
+      box-shadow: 0 0 10px #008000;
+   }
+   .btn{
+      background-color: blue;
+      color: yellow;
+      height: 200px;
+      width: 400px;
+      font-size: 80px;
+      border-color:blue ;
+      border-radius: 25px;
+   }
+   .btn:hover{
+      background-color: yellow;
+      color: blue;
+      border-color:yellow;
+   }
+   .task11::first-letter{
+      font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+   }
+   .task11{
+      font-size: 20px;
+   }
+   .greetings{
+      background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+      background-clip: text;
+      -webkit-background-clip: text;
+      color: transparent;
+   }
+   .parag {
+      color: green;
+      border: 1px solid black;
+    }
+    .prgrf1{
+      font-size: 18px;
+      font-family: 'Courier New', Courier, monospace;
+    }
+    .prgrf2{
+      font-size: 20px;
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .prgrf3{
+      font-size: 22px;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
